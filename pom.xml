@@ -9,10 +9,10 @@
 	
 	<name>maven-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Maven-Web-Project</description>
 
 	<organization>
-		<name>optimusu prime</name>
+		<name>optimusu</name>
 		<url>http://maven.apache.org/</url>
 	</organization>
 
